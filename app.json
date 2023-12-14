@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.guistoff081.twitchtvshared"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "36d7c31d-8454-404d-b0a8-516b5fe8ea4f"
+      }
+    },
+    "owner": "guistoff081"
   }
 }
